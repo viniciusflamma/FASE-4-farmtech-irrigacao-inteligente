@@ -1,7 +1,5 @@
 # 🌱 Sistema de Irrigação Inteligente - FarmTech Solutions
 
-![Diagrama do Circuito](https://i.imgur.com/9Lm4JYv.png)
-
 ## 📌 Visão Geral
 Sistema IoT para automação agrícola que monitora condições do solo e controla irrigação automaticamente, desenvolvido como projeto acadêmico na FIAP.
 
@@ -106,7 +104,3 @@ void loop() {
 
 ## 📄 Licença
 MIT License - Consulte o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-Desenvolvido por [Seu Nome] - FIAP © 2023  
-[![FIAP](https://img.shields.io/badge/FIAP-DeepTech-blue)](https://www.fiap.com.br)
